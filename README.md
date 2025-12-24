@@ -2,7 +2,7 @@
 An end-to-end data project that scrapes, stores, and visualizes the top movies of 2024.
 
 ## 🚀 Live Dashboard
-[View the Live App Here](your-streamlit-link-goes-here)
+[View the Live App Here](https://imdb-2024-analysis-jjnmb2pezhb5lqemhcjrp.streamlit.app/)
 
 ## 🛠️ Features
 - **Web Scraping:** Automated data collection using **Selenium**.
